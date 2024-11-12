@@ -47,6 +47,7 @@ Here are the sections:
 * [Elite Data Science](https://github.com/khanhnamle1994/cracking-the-data-science-interview/tree/master/Question-Bank/Elite-Data-Science.md)
 * [Workera](https://github.com/khanhnamle1994/cracking-the-data-science-interview/tree/master/Question-Bank/Workera)
 * [150 Essential Data Science Questions and Answers](https://github.com/khanhnamle1994/cracking-the-data-science-interview/tree/master/Question-Bank/150-Essential-Data-Science-Questions-and-Answers.pdf)
+* [Meta Data Science Interview Questions](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers)
 
 ## Data Science Case Studies
 [This section](https://github.com/khanhnamle1994/cracking-the-data-science-interview/tree/master/Case-Studies) contains case study questions that concern designing machine learning systems to solve practical problems.
